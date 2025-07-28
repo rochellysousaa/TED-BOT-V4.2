@@ -96,9 +96,9 @@ const menu18 = (prefix, NomeDoBot, NickDono, sender) => {
 ╭━════════⊷⚽
 ┃╭───────────────💎
 ┃│🫦 𝐌𝐄𝐍𝐔 - +18 😈
-┃│〘🎱〙➢ Bot: *${NomeDoBot}*
+┃│〘🎱〙➢ Bot: *${NEKINHA BOT}*
 ┃│〘🎱〙➢ Usuário: @${sender.split("@")[0]}
-┃│〘🎱〙➢ Dono: *${NickDono}*
+┃│〘🎱〙➢ Dono: *${ASUNA}*
 ┃│〘🎱〙➢ 𝚌𝚘𝚖𝚊𝚗𝚍𝚘: menu18
 ┃╰───────────────👀
 ╰━════════⊷💥
@@ -518,9 +518,9 @@ const menu2 = (prefix, NomeDoBot, NickDono, sender) => {
 // NÃO APAGUE ESSE ${prefix}, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa. 
 return `
 ╭━━━❰🔥 𝐈𝐍𝐅𝐎𝐑𝐌𝐀ÇÕ𝐄𝐒 🔥❱━━━╮
-┃ 🤖 Bot: ${NomeDoBot}
+┃ 🤖 Bot: ${NEKINHA BOT}
 ┃ 👤 Usuário: @${sender.split("@")[0]}
-┃ 👑 Dono: ${NickDono}
+┃ 👑 Dono: ${ASUNA}
 ╰━━━━━━━━━━━━━━━━━━╯
 
 🎵 𝙈𝙀𝙉𝙐 𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙇 🎵
@@ -647,12 +647,12 @@ exports.menu2 = menu2;
 const playlist2 = (prefix, NomeDoBot, NickDono, pushname, date, hora, sender) => {
 // NÃO APAGUE ESSE ${prefix}, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa. 
 return `​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​╭━━ ⪩🔥 *𝐈𝐍𝐅𝐎𝐑𝐌𝐀ÇÕ𝐄𝐒* 🔥⪨ ━━╮  
-┃ 🛠️ Bot: ${pushname}  
+┃ 🛠️ Bot: ${NEKINHA BOT}  
 ┃ 🏷️ Versão: 𝐕4.1  
 ┃ 📅 Data: ${date}  
 ┃ ⏰ Hora: ${hora}  
 ┃ 👤 Usuário: @${sender.split("@")[0]}  
-┃ 👑 Dono: ${NickDono}  
+┃ 👑 Dono: ${ASUNA}  
 ┃ 📚 Biblioteca: Kitagawa MD  
 ┃ ⚡ Prefixo: ${prefix}  
 ┃ 🎵 Músicas disponíveis: (49)  
